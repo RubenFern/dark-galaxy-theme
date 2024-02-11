@@ -1,10 +1,17 @@
 {
 	"name": "Dark Galaxy Theme",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#242526",
+		"editor.foreground": "#e4e6eb",
+		"activityBar.background": "#18191a",
+		"activityBarBadge.background": "#8E44AD",
+		"sideBar.background": "#242526",
+		"sideBarTitle.foreground": "#bbbbbb",
+		"statusBar.background": "#3a3b3c",
+		"menu.background": "#242526",
+		"menu.selectionBackground": "#3a3b3c",
+		"titleBar.activeBackground": "#18191a",
+		"titleBar.activeForeground": "#e4e4e4"	
 	},
 	"tokenColors": [
 		{
@@ -15,7 +22,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#707070"
 			}
 		},
 		{
@@ -55,7 +62,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#85C1E9"
 			}
 		},
 		{
@@ -75,7 +82,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#85C1E9"
 			}
 		},
 		{
@@ -99,7 +106,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#F7DC6F"
 			}
 		},
 		{
@@ -108,7 +115,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#cf8acf"
 			}
 		},
 		{
@@ -134,7 +141,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#F0B27A"
 			}
 		},
 		{
@@ -149,7 +156,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#85C1E9"
 			}
 		},
 		{
@@ -165,7 +172,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#BB8FCE"
 			}
 		},
 		{
@@ -209,7 +216,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#CACFD2"
 			}
 		},
 		{

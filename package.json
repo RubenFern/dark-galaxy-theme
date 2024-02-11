@@ -14,7 +14,7 @@
       {
         "label": "Dark Galaxy Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark Galaxy Theme-color-theme.json"
+        "path": "./themes/color-theme.json"
       }
     ]
   }
