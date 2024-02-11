@@ -1,0 +1,21 @@
+{
+  "name": "dark-galaxy-theme",
+  "displayName": "Dark Galaxy Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Galaxy Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Galaxy Theme-color-theme.json"
+      }
+    ]
+  }
+}
